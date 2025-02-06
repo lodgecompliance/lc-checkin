@@ -27,5 +27,4 @@ yarn-error.log*
 
 # environment variables
 .env
-.env.development
-.env.production
+service-account*.json
