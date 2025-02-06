@@ -1,7 +1,7 @@
 {
   "projects": {
-    "dev": "lc-staging-785dc",
-    "prod": "lc-production-447313"
+    "staging": "lc-staging-785dc",
+    "production": "lc-production-447313"
   },
   "targets": {
     "lc-staging-785dc": {
